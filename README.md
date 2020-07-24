@@ -1,6 +1,6 @@
 # ML_DL_py_TF
 
-![ML_DL_py_TF](https://github.com/venkatareddykonasani/ML_DL_py_TF/blob/master/41OkwIX-MQL._SX348_BO1204203200_.jpg)
+![ML_DL_py_TF](https://github.com/venkatareddykonasani/ML_DL_py_TF/blob/master/MLDLPYTF.jpg)
 
 Book - Machine Learning and Deep Learning with Python and TensorFlow
 By Venkata Reddy Konasani and Shailendra Kadre
