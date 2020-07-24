@@ -1,6 +1,7 @@
 # ML_DL_py_TF
 
-https://statinfer.com/wp-content/uploads/41OkwIX-MQL._SX348_BO1204203200_.jpg
+![ML_DL_py_TF](https://github.com/venkatareddykonasani/ML_DL_py_TF/blob/master/41OkwIX-MQL._SX348_BO1204203200_.jpg)
+
 Book - Machine Learning and Deep Learning with Python and TensorFlow
 By Venkata Reddy Konasani and Shailendra Kadre
 
